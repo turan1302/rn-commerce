@@ -1,0 +1,13 @@
+current directory: /Users/mfs/Desktop/Projelerim/rn_project/e_commerce/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+/Users/mfs/.rbenv/versions/2.7.6/bin/ruby -I /Users/mfs/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20240113-1213-pwbw7f.rb extconf.rb
+creating Makefile
+
+current directory: /Users/mfs/Desktop/Projelerim/rn_project/e_commerce/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/mfs/Desktop/Projelerim/rn_project/e_commerce/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/mfs/Desktop/Projelerim/rn_project/e_commerce/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" install
